@@ -1,0 +1,27 @@
+---
+title: "Open science and research data management, day 1"
+author: "colomb julien"
+date: "10/25/2018"
+output:
+  ioslides_presentation:
+    incremental: true
+    widescreen: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Workshop timing
+
+- 15 min breaks at 10:45 and 15h
+- lunch 12h30 to 13h30
+- end at 16:45
+- Dinner tonite ?
+
+
+# Code of conduct
+
+
+
+# Question ?

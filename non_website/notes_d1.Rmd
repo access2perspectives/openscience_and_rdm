@@ -1,0 +1,51 @@
+---
+title: "schedule day 1"
+author: "colomb_julien"
+date: "10/25/2018"
+output: html_document
+---
+
+
+# 09:15-10:00: Open science: the what and why.
+
+Introduction of each participant: 1min for name, institute, reason to do science (card)
+
+From ethical values collected -> science should be collaborative, transparent and inclusive -> open science
+
+workshop outline, code of conduct, technical questions, link to collaborative notes (hack.md)
+
+
+Experimental design and p-hacking
+
+
+
+10:00-10:45
+Open collaboration
+Reproducible research and data analysis I
+10:45-11:00
+BREAK
+BREAK
+11:00-11:45
+Open Data I (raw data)
+Reproducible research and data analysis II
+11:45-12:30
+Open Data II (spreadsheets)
+Open Publishing (open access)
+12:30-13:30
+LUNCH
+LUNCH
+13:30-14:15
+Open Data III (FAIR data)
+Open source Software I 
+14:15-15:00
+Open Data IV (open data)
+Open Source Software II
+15:00-15:15
+BREAK
+BREAK
+15:15-16:00
+version control
+Public engagement / Open Communities
+16:00-16:45
+Day review/discussion
+Day review/discussion

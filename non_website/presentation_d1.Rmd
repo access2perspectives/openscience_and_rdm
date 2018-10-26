@@ -12,6 +12,20 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Open science
+
+
+
+![](../static/Users/colombj/github_repo/teach_OS_RDM/non_website/presentation_d1_files/latest_150.png){width=2}
+
+  
+ 
+ 
+
+
+
+
+
 # Workshop timing
 
 - 15 min breaks at 10:45 and 15h
@@ -22,6 +36,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Code of conduct
 
-
+- Be supportive, collaborative, kind, and generous with feedback
+- No exclusionary language or microaggressions (beware of jokes)
+- React if you see unfit behavior
+- Please don’t say: “Comment X wasn’t sexist!”, apologize and move on.
 
 # Question ?

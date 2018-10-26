@@ -12,16 +12,19 @@ Introduction of each participant: 1min for name, institute, reason to do science
 
 From ethical values collected -> science should be collaborative, transparent and inclusive -> open science
 
+what is open science.
+
 workshop outline, code of conduct, technical questions, link to collaborative notes (hack.md)
 
 
-Experimental design and p-hacking
+
 
 
 
 10:00-10:45
 Open collaboration
 Reproducible research and data analysis I
+Experimental design and p-hacking
 10:45-11:00
 BREAK
 BREAK
@@ -49,3 +52,6 @@ Public engagement / Open Communities
 16:00-16:45
 Day review/discussion
 Day review/discussion
+
+
+Experimental design and p-hacking

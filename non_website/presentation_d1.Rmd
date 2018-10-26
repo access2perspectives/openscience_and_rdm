@@ -6,17 +6,24 @@ output:
   ioslides_presentation:
     incremental: true
     widescreen: true
+    fig_width: 7
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Open science
+# Presentation 
+
+- your name
+- one sentence about your scientific project
+- one card tell about why you choose to be a scientist
+
+## Open science
 
 
+<center><img src="../static/Users/colombj/github_repo/teach_OS_RDM/non_website/presentation_d1_files/latest_150.png" width="100%"" /></center>
 
-![](../static/Users/colombj/github_repo/teach_OS_RDM/non_website/presentation_d1_files/latest_150.png){width=2}
 
   
  
@@ -25,8 +32,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-
-# Workshop timing
+# Foreword
+## Workshop timing
 
 - 15 min breaks at 10:45 and 15h
 - lunch 12h30 to 13h30
@@ -34,7 +41,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Dinner tonite ?
 
 
-# Code of conduct
+## Code of conduct
 
 - Be supportive, collaborative, kind, and generous with feedback
 - No exclusionary language or microaggressions (beware of jokes)
@@ -42,3 +49,30 @@ knitr::opts_chunk$set(echo = FALSE)
 - Please don’t say: “Comment X wasn’t sexist!”, apologize and move on.
 
 # Question ?
+
+# open collaboration: 
+
+- Version control and git: the basics of “git commit”
+- Using Gitlab / GitHub
+
+##Versioning: the problem
+
+- …
+- thesis-final
+- thesis-final2,thesis-final3, thesis-final4, thesis-final4-corr
+- thesis-final-final
+- …
+- thesis-final-final-corr_Prof-3-submitted-rev2 ?
+
+## Version control: manual solution
+
+- Increasing numbers: 01-99, or 001-999 or ISO date (end or beginning of file name)
+- Version history file: log of changes 
+- Also possible: all old version in a sub-folder, keep only last version in the main folder.
+
+## Results
+
+<center><img src="images/VC_result.png" width="100%"" /></center>
+
+
+Open keynote (Git.key)

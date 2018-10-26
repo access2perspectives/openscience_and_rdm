@@ -1,17 +1,14 @@
 ---
-title: "Version control and git"
-author: "colomb_julien"
+title: "Version control and git | the basics of “git commit”"
+author: "Dr. Julien Colomb <br> distributed over a CC-BY 4.0 license <br> initially created for the university of Jena."
 date: "10/26/2018"
-output:
-  ioslides_presentation:
-    incremental: true
-    widescreen: true
-    fig_width: 7
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
 
 
 ##Versioning: the problem
@@ -35,18 +32,25 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Automation via Git
 
-- Only latest version visible
-- All version saved
-- Version history, with messages
-- ++ only changes are saved -> need less storage space <br> !! text files only, not binaries (.csv, .txt, .md but not .docs, .xlsx, .jpg,… files)
+- "git commit"" is like
+    - adding a snapshot of file in an invisible folder
+    - writing a comment in the version history
+- Result:
+    - Only latest version visible
+    - All version saved (although less accessible)
+    - Version history, with messages
+    
+- In addition:
+    - Deleted files are still there somewhere !
+    - only changes are saved in the snapshot -> need less storage space <br> !! work with text files only, not binaries (.csv, .txt, .md but not .docs, .xlsx, .jpg,… files)
 
 ## git commit, principle
 
-<center><img src="images/GitStructure.png" width="100%"" /></center>
+<center><img src="images/GitStructure.png" width="80%"" /></center>
 
 ## git commit, in Rstudio
 
-<center><img src="images/commit_rstudio.png" width="100%"" /></center>
+<center><img src="images/commit_rstudio.png" width="80%"" /></center>
 
 ## Version history
 

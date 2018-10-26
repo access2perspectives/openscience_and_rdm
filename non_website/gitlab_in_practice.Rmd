@@ -1,0 +1,79 @@
+---
+title: "Gitlab"
+author: "Dr. Julien Colomb <br> distributed over a CC-BY 4.0 license <br> initially created for the university of Jena."
+date: "10/26/2018"
+ioslides_presentation:
+    incremental: false
+---
+
+# Walkthrough
+
+## Install applications
+
+> - Git: [https://git-scm.com/downloads](https://git-scm.com/downloads)
+> - Rstudio: [https://www.rstudio.com/products/rstudio/download/](https://www.rstudio.com/products/rstudio/download/)
+
+
+## Create and clone repository (in group)
+
+
+> - go to https://venus.geogr.uni-jena.de/GEO_403
+> - create a new repository, with readme file
+> - add the other member of the team in the collaborators
+> - alone: get the https address
+> - make new project in Rstudio, using that address
+> - in group: add a folder named "team", commit and push to the master
+
+## Add file via gitlab
+
+> - Go on the gitlab page, in the team folder
+> - click "create a new file"
+> - name the file with your name, add information about yourself there
+> - create a new branch with that change, name it after yourself
+> - for those who did not do it earlier, clone the repository on your harddrive
+
+## Pulls
+
+> - in group, accept the pull requests
+> - individually, pull changes
+> - merge master into your branch (over gitlab or with another software)
+
+Pull (git) in not equivalent to pull requests (gitlab)
+
+## Add project information
+
+> - put your data and other files you have in the repository folder
+> - commit changes
+> - push
+
+Work in group to see what you wanna use.
+
+# Using issues
+
+- create issues
+- add labels
+- add assignee
+- start the discussion !
+
+# Why using gitlab ?
+
+## The Obvious
+
+- Backup of your files
+- Possible to work from different machines
+- Version history
+- Follow who did what
+- Communication via issues
+
+## Careful:
+
+- Pull when starting to work
+- Push when the work is done
+- Use branches to deal with merging problems later
+- try to pull request on master often.
+
+# Geil !
+
+### You can also use git to write your report collaboratively !
+
+### Check Rmarkdown to make reports embeding R or python code.

@@ -1,0 +1,60 @@
+---
+title: "Version control and git"
+author: "colomb_julien"
+date: "10/26/2018"
+output:
+  ioslides_presentation:
+    incremental: true
+    widescreen: true
+    fig_width: 7
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+##Versioning: the problem
+
+- …
+- thesis-final
+- thesis-final2,thesis-final3, thesis-final4, thesis-final4-corr
+- thesis-final-final
+- …
+- thesis-final-final-corr_Prof-3-submitted-rev2 ?
+
+## Version control: manual solution
+
+- Increasing numbers: 01-99, or 001-999 or ISO date (end or beginning of file name)
+- Version history file: log of changes 
+- Also possible: all old version in a sub-folder, keep only last version in the main folder.
+
+## Results
+
+<center><img src="images/VC_result.png" width="100%"" /></center>
+
+## Automation via Git
+
+- Only latest version visible
+- All version saved
+- Version history, with messages
+- ++ only changes are saved -> need less storage space <br> !! text files only, not binaries (.csv, .txt, .md but not .docs, .xlsx, .jpg,… files)
+
+## git commit, principle
+
+<center><img src="images/GitStructure.png" width="100%"" /></center>
+
+## git commit, in Rstudio
+
+<center><img src="images/commit_rstudio.png" width="100%"" /></center>
+
+## Version history
+
+<center><img src="images/githistory_rstudio.png" width="100%"" /></center>
+
+## Using git in practice
+
+- Command lines for nerds !
+- Rstudio (github desktop,…), for creation, commits and simple stuff
+- Git specific software (Sourcetree, tortoise,…) for more complex processes (merge, complex history,…)
+- Problems -> google error message -> stack overflow solution (mostly via git commands, shell button on Rstudio)

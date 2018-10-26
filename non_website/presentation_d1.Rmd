@@ -52,27 +52,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # open collaboration: 
 
-- Version control and git: the basics of “git commit”
-- Using Gitlab / GitHub
+> - [Version control and git: the basics of “git commit”](gitbasics.html){:target="_blank"}
+> - Using Gitlab / GitHub
 
-##Versioning: the problem
-
-- …
-- thesis-final
-- thesis-final2,thesis-final3, thesis-final4, thesis-final4-corr
-- thesis-final-final
-- …
-- thesis-final-final-corr_Prof-3-submitted-rev2 ?
-
-## Version control: manual solution
-
-- Increasing numbers: 01-99, or 001-999 or ISO date (end or beginning of file name)
-- Version history file: log of changes 
-- Also possible: all old version in a sub-folder, keep only last version in the main folder.
-
-## Results
-
-<center><img src="images/VC_result.png" width="100%"" /></center>
-
-
-Open keynote (Git.key)

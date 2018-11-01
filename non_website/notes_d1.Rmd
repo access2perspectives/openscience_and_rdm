@@ -25,42 +25,85 @@ workshop outline, code of conduct, technical questions, link to collaborative no
 Open collaboration.
 open source project. Linux
 
-Introduction to git/github: get you page ready in the website.
+Introduction to github: get you page ready in the website.
 
 step 1: login, change the yml page, pull request it.
-step 2: clone the repo, add picture, modify yml, commit, push 
-
+step 2: add picture, modify yml
+step 3: add your page (create new file)
 
 
 10:45-11:00
 BREAK
 
 11:00-11:45
+
+Introduction: video, overview RDM
+
 Open Data I (raw data)
-Reproducible research and data analysis II
+Keynote presentation: 1_0_rawdata
+exercise with all participants (explain the data flow)
+exercice in group of 3 (explain the data flow)
+
+output: 2 sentences summary
+
 11:45-12:30
 Open Data II (spreadsheets)
-Open Publishing (open access)
+
+Keynote presentation: 1_1_spreadsheets
+exercise with all participants (create one spreadsheet)
+exercice in group of 3 (create one spreadsheet)
+
+output: one spreadsheet design
+
 12:30-13:30
 LUNCH
-LUNCH
+
 13:30-14:15
 Open Data III (FAIR data)
-Open source Software I 
+
+Keynote presentation: 1_2_fairdata
+exercice in group of 3 (Folder organisation)
+exercice in group of 3 (file naming)
+
+Output: master file explaining naming and organisation
+
 14:15-15:00
 Open Data IV (open data)
-Open Source Software II
+
+Keynote presentation: 1_3_open_fairdata
+exercise with all participants
+individual exercice (DMP)
+
+Output: a data management plan
+
 15:00-15:15
 BREAK
-BREAK
+
 15:15-16:00
 version control
-Public engagement / Open Communities
+
+Keynote presentation: gitbasics.html
+exercise: clone the repository, add the DMP, link in your page, git commit, git push, pull request and accept pull request.
+
+
 16:00-16:45
-Day review/discussion
-Day review/discussion
+Day review/discussion:
+elevator pitch each participant (with summary of data flow)
+Q and A
+
+
+
+
 
 Reproducible research and data analysis I
 Experimental design and p-hacking
 
 Experimental design and p-hacking
+
+Reproducible research and data analysis II
+Open Publishing (open access)
+Open source Software I 
+Open Source Software II
+Public engagement / Open Communities
+
+Day review/discussion

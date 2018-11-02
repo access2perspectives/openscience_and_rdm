@@ -19,13 +19,30 @@ knitr::opts_chunk$set(echo = FALSE)
 - one sentence about your scientific project
 - one card tell about why you choose to be a scientist
 
-## Open science
+
+
+##  Open science definition
+
+Open Science is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods. 
+
+[FOSTER, Open Science Definition: https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition]
+
+## Open science is diverse
 
 
 <center><img src="../static/Users/colombj/github_repo/teach_OS_RDM/non_website/presentation_d1_files/latest_150.png" width="100%"" /></center>
 
+## Why open science
 
-  
+<center><img src="images/openscience_because.png" width="65%" /></center>
+
+## Open data is coming !
+
+>- Funders ask for it
+>- Journals ask for it
+>- Universities ask for it
+
+Get ready for it !
  
  
 
@@ -47,6 +64,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - No exclusionary language or microaggressions (beware of jokes)
 - React if you see unfit behavior
 - Please don’t say: “Comment X wasn’t sexist!”, apologize and move on.
+- pacman rule whie talking in a circle
 
 # Question ?
 

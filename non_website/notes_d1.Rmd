@@ -21,7 +21,8 @@ workshop outline, code of conduct, technical questions, link to collaborative no
 
 
 
-10:00-10:45
+#10:00-10:45
+
 Open collaboration.
 open source project. Linux
 
@@ -32,10 +33,10 @@ step 2: add picture, modify yml
 step 3: add your page (create new file)
 
 
-10:45-11:00
+#10:45-11:00
 BREAK
 
-11:00-11:45
+#11:00-11:45
 
 Introduction: video, overview RDM
 
@@ -46,7 +47,7 @@ exercice in group of 3 (explain the data flow)
 
 output: 2 sentences summary
 
-11:45-12:30
+#11:45-12:30
 Open Data II (spreadsheets)
 
 Keynote presentation: 1_1_spreadsheets
@@ -55,10 +56,10 @@ exercice in group of 3 (create one spreadsheet)
 
 output: one spreadsheet design
 
-12:30-13:30
+#12:30-13:30
 LUNCH
 
-13:30-14:15
+#13:30-14:15
 Open Data III (FAIR data)
 
 Keynote presentation: 1_2_fairdata
@@ -67,7 +68,7 @@ exercice in group of 3 (file naming)
 
 Output: master file explaining naming and organisation
 
-14:15-15:00
+#14:15-15:00
 Open Data IV (open data)
 
 Keynote presentation: 1_3_open_fairdata
@@ -76,34 +77,61 @@ individual exercice (DMP)
 
 Output: a data management plan
 
-15:00-15:15
+#15:00-15:15
 BREAK
 
-15:15-16:00
+#15:15-16:00
 version control
 
 Keynote presentation: gitbasics.html
 exercise: clone the repository, add the DMP, link in your page, git commit, git push, pull request and accept pull request.
 
 
-16:00-16:45
+#16:00-16:45
 Day review/discussion:
 elevator pitch each participant (with summary of data flow)
 Q and A
 
+#DAY 2
 
-
-
-
-Reproducible research and data analysis I
-Experimental design and p-hacking
+# 09:15-10:00: 
 
 Experimental design and p-hacking
+Presentation with example in between
 
-Reproducible research and data analysis II
+#10:00-10:45
+
+Reproducible research and data analysis I (documentation)
+
+
+
+#10:45-11:00
+BREAK
+
+#11:00-11:45
+
+Reproducible research and data analysis II (using programs)
+
+#11:45-12:30
 Open Publishing (open access)
-Open source Software I 
+
+#12:30-13:30
+LUNCH
+
+#13:30-14:15
+Open source Software I
+
+#14:15-15:00
+
 Open Source Software II
+#15:00-15:15
+BREAK
+
+#15:15-16:00
+
 Public engagement / Open Communities
 
+#16:00-16:45
+
 Day review/discussion
+

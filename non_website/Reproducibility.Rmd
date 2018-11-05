@@ -1,0 +1,51 @@
+---
+title: "data analysis reproducibility and reproducible reports"
+author: "Dr. Julien Colomb <br> distributed over a CC-BY 4.0 license"
+date: "10/26/2018"
+ioslides_presentation:
+    incremental: true
+---
+
+
+## What do we need to reproduce the analysis?
+
+- data
+- detailed documentation:
+    - What was done
+    - What software was used (version number)
+    - What dependencies of that software
+
+## Not as straightforward as it seems !
+
+- data filtering
+- error in manual handling of the data (copy paste actions, sort,...)
+- different software (versions) have different outputs
+- ...
+
+## Do things on the go
+
+
+<center><img src="images/doitearly.jpeg" width="60%" /></center>
+
+## First things to consider
+
+1. Document all your analysis and test whether your documentation is enough.
+2. Get rid of excel for data analysis
+3. I said do not use excel !
+
+## No excel, then what ?
+
+- R or/and python
+- matlab: not open source
+- SPSS and others: less reproducible, but can work with good documentation.
+
+## let's get started with a little bit of Rstudio !
+
+- Install R and Rstudio
+- New file Rscript
+- Import dataset, name it "studentage"
+- copy history to source
+- calculate mean(age)
+- make a boxplot of age
+
+

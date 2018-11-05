@@ -1,0 +1,39 @@
+---
+title: "GSP"
+author: "colomb_julien"
+date: "11/5/2018"
+output: ioslides_presentation
+---
+
+# Your university has one  
+http://www.uv.ruhr-uni-bochum.de/dezernat1/amtliche/ab1142.pdf
+
+https://www.mpg.de/197494/rulesScientificPractice.pdf
+
+## Goals
+
+Preventing behaviors which are **irreconcilable with** the essence of science itself as a methodical, systematic process of research aimed at **gaining knowledge based on verifiable results** and that **destroy public trust** in the reliability of scientific results as well as the trust of scientists among themselves.
+
+## What is it
+
+- policies
+- define on how to teach students
+- define misconduct
+- define how misconduct is reported and dealt with (mediation office/Ombudsstelle)
+
+
+## The obviously wrong 
+
+- plagiat
+- stealing of ideas
+- Creation of data
+- Destruction  of others material or data 
+
+## The less obvious 
+
+- Adding authors who did nothing to a manuscript
+other principles:
+- doubt your own results
+- provide results in a way they are reproducible
+- document the data
+- primary data saved for 10 years

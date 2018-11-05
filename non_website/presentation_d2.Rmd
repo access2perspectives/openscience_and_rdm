@@ -1,0 +1,66 @@
+---
+title: "Introduction to Reproducible research"
+author: "Dr. Julien Colomb <br> distributed over a CC-BY 4.0 license"
+date: "10/26/2018"
+ioslides_presentation:
+  incremental: yes
+---
+
+## Reproducibility crisis
+
+What is it?
+
+
+## Reproducibility crisis
+
+The reproducibility problem is not new, it just scaled with the amount of data collected. 
+
+```{r, results='asis'}
+knitcitations::citet("10.1371/journal.pmed.0020124")
+
+knitcitations::bibliography(style="html")
+```
+
+> Simulations show that for most study designs and settings, it is more likely for a research claim to be false than true. Moreover, for many current scientific fields, claimed research findings may often be simply accurate measures of the prevailing bias.
+
+## Example GWAS
+
+- 100 000 genes looked at
+- we expect 10 of these genes to be associated with condition
+- for each gene there is 1/10 000 chance of being associated with the condition before the study
+- Study with 60% power and p value of 0,05, gene positively found! Its chance of being real positive are now 12/10 000.
+- That is without any p-hacking
+
+
+
+## Definitions
+
+There is no consensus over which word goes with what concept, but in general if the same analysis gives the same results, we speak of:
+
+- same data: data analysis reproducibility
+- same experiment (same lab): experiment repeatability
+- same experiment (other lab): experiment replicability
+- same experiment (other equipment): experiment reproducibility
+- similar experiment (other species for instance): external validity 
+
+## Solutions
+
+- Good (Better) scientific practice:
+    - Documentation
+    - Preregistration
+    - Transparency
+- Automation (less bias, better documentation)
+- Insert variability (different genotypes, collaboration with other labs,...) !?
+
+## Today
+
+- data analysis reproducibility and reproducible reports
+- open source software (+ hardware)
+- experiment replicability: open material and open protocols
+- open access and open engagement
+
+## What we will nearly not talk about
+
+- containers (10 years rule): packrat/binder, codeocean
+- use "make" (only changes are computed)
+- continous testing (binder, travis), but let's talk about goodtables.io !

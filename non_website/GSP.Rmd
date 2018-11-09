@@ -1,5 +1,5 @@
 ---
-title: "GSP"
+title: "Good Scientific Practices"
 author: "colomb_julien"
 date: "11/5/2018"
 output: ioslides_presentation
@@ -8,6 +8,7 @@ output: ioslides_presentation
 # Your university has one  
 http://www.uv.ruhr-uni-bochum.de/dezernat1/amtliche/ab1142.pdf
 
+you may also look at the MPG one:
 https://www.mpg.de/197494/rulesScientificPractice.pdf
 
 ## Goals

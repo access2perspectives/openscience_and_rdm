@@ -1,5 +1,5 @@
 ---
-title: "Version control and git | the basics of “git commit”"
+title: "Version control and git <br> the basics of “git commit”"
 author: "Dr. Julien Colomb <br> distributed over a CC-BY 4.0 license <br> initially created for the university of Jena."
 date: "10/26/2018"
 

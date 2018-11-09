@@ -1,0 +1,67 @@
+---
+title: "Hello R Markdown"
+author: "Frida Gomam and Julien Colomb" 
+date: 2015-07-23T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# blogdown 
+
+blog entries use the bookdown package, based on RMarkdown, itself using the markdown synthax. Some functions (like figure numbering) will only be available while building/serving the website, not when knitting the document.
+
+# R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+fit <- lm(dist ~ speed, data = cars)
+fit
+```
+
+You can also use python code, using the reticulate package:
+
+```{python adding}
+# This program adds two numbers
+
+num1 = 1.5
+num2 = 6.3
+
+# Add two numbers
+sum1 = float(num1) + float(num2)
+
+# Display the sum
+print('The sum of {0} and {1} is {2}'.format(num1, num2, sum1))
+```
+
+Note that values are kept from one R chunk to the next, but cannot be ported from python chunk into r chunks:
+```{r}
+exists("fit")
+
+exists("sum1")
+```
+
+# Including Plots
+
+You can also embed plots. See Figure \@ref(fig:pie) for example:
+
+```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
+par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
+  col = c('#0292D8', '#F7EA39', '#C4B632'),
+  init.angle = -50, border = NA
+)
+```
+
+---
+
+This post is distributed over a CC0 license

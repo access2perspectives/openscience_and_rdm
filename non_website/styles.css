@@ -6,7 +6,7 @@
 
 .gdbar {
   width: 400px !important;
-  height: 120px !important;
+  height: 90px !important;
 }
 
 slides > slide:not(.nobackground):before {

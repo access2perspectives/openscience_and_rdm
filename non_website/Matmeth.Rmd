@@ -1,0 +1,70 @@
+---
+title: "Material and method"
+author: "colomb_julien"
+date: "11/9/2018"
+output: ioslides_presentation
+---
+
+# open material and open protocols
+
+## Description of material is a mess
+
+- 40 to 60% can be identified from the info in the papers
+- Always difficult to find the info in the paper
+- Often the info is lost even in the lab (metadata missing !)
+
+## RRID: research resource ID
+
+- Force 11 behind it (FAIR principles)
+- database of resources [https://scicrunch.org](https://scicrunch.org)
+- supposed to end up in the keywords (to be mined)
+- effective if used, not working for transgenic animals
+
+## key reagent table
+
+- put all resources description into one table
+- the elsevier version: key resources table
+- flybase/elife version: [key reagent table](https://elifesciences.org/inside-elife/b8755582/for-authors-elife-promotes-rigour-and-transparency-with-key-resources-tables)
+
+## key reagent open table (krot)
+
+- expand/test the key reagent table format
+- create ways to use them as lab inventory
+- get information at purchase
+- export information for publisher and beyond...
+
+- An idea so far
+- Follow its developement/help at [www.reagents.io](www.reagents.io)
+
+## Conclusion
+
+- Use a table for your reagents
+- Each experiment should get its table
+- document, document, document
+
+# Protocols
+
+## What you can read
+
+- Experiments performed as in (XXX)
+- in XXX: Experiments performed as in (YYY)
+- in YYY: Experiments performed following an internal protocol
+
+## In reality
+
+Protocols do change over time, which one was used for which experiment is often lost.
+
+Here again, a lack of documentation is causing pain
+
+## The solution
+
+- Version controlled protocols
+- Experiment metadata state what protocol version is used
+- Protocols get a PID
+
+
+## Publish your protocols 
+
+- GitHub (version control, PID via Zenodo)
+- Zenodo/Figshare directly
+- [Protocols.io](www.Protocols.io)

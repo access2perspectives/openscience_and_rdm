@@ -68,8 +68,5 @@ Get ready for it !
 
 # Question ?
 
-# open collaboration: 
 
-> - [Version control and git, the basics of “git commit”](gitbasics.html)
-> - Using Gitlab / GitHub
 

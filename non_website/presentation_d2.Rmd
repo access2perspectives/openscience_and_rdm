@@ -8,10 +8,10 @@ ioslides_presentation:
 
 ## Reproducibility crisis
 
-What is it?
+https://www.youtube.com/watch?v=FpCrY7x5nEE
 
 
-## Reproducibility crisis
+## Reproducibility crisis {.smaller}
 
 The reproducibility problem is not new, it just scaled with the amount of data collected. 
 
@@ -47,7 +47,7 @@ There is no consensus over which word goes with what concept, but in general if 
 
 - Good (Better) scientific practice:
     - Documentation
-    - Preregistration
+    - [Preregistration](https://cos.io/prereg/)
     - Transparency
 - Automation (less bias, better documentation)
 - Insert variability (different genotypes, collaboration with other labs,...) !?
@@ -55,12 +55,15 @@ There is no consensus over which word goes with what concept, but in general if 
 ## Today
 
 - data analysis reproducibility and reproducible reports
-- open source software (+ hardware)
+- open source software 
 - experiment replicability: open material and open protocols
 - open access and open engagement
 
 ## What we will nearly not talk about
 
+- open source hardware
+
 - containers (10 years rule): packrat/binder, codeocean
 - use "make" (only changes are computed)
 - continous testing (binder, travis), but let's talk about goodtables.io !
+

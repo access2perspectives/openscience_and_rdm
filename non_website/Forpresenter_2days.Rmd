@@ -155,21 +155,7 @@ colors of open access
 add a license to your part of the website, change readme file accordingly.
 
 
-#14:15-15:00 Open source and leadership (Public engagement / Open Communities)
-
-citizen science
-open science example
-Mozilla community
-GOSH)
-
-*If not done on first day, version control part comes here instead of open leadership (only link given then).*
-
-documents to add
-Collaboration with issues
-open leadership (mozilla)
-
-
-#15:00-15:15 Reproducible reports I (material and methods)
+#14:15-15:00  Reproducible reports I (material and methods)
 
 PID for everything !
 open materials: RRID, MGI numbers
@@ -179,8 +165,13 @@ this info must be in metadata of each experiment !!!
 Key reagent table (elife)
 
 
+*If not done on first day, version control part comes here instead of exercices.*
 
-BREAK
+
+
+
+#15:00-15:15 BREAK 
+
 
 #15:15-16:00 Reproducible reports II (Rmarkdown)
 
@@ -193,6 +184,16 @@ add a blogpost to the website to say it worked !
 
 
 #16:00-16:45 Day review/discussion
+
+Open source and leadership (Public engagement / Open Communities)
+documents to add
+Collaboration with issues
+open leadership (mozilla)
+
+citizen science
+open science example
+Mozilla community
+GOSH)
 
 Look at each people summary, get feedback, make changes if needed.
 Give the website admin rights away, publish via netify ?

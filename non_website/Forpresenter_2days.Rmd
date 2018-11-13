@@ -6,15 +6,22 @@ output:
   pdf_document: default
 ---
 
+#If there is not enough time:
+
+version control on day 1 is moved to day 2
+Reproducible research and data analysis II (your data) in day 2 is skipped.
 
 # 09:15-10:00: Open science: the what and why.
 
-Introduction of each participant: 1min for name, institute, reason to do science (card)
+Introduction of each participant: 1min for name, institute, reason to do science (card), exeriment to present (card with name)
 
 From ethical values collected -> science should be collaborative, transparent and inclusive -> open science
 
 what is open science.
 What is open data, who ask for it
+
+Why open data !!
+  - presentation 
 
 workshop outline, code of conduct, technical questions, link to collaborative notes (hack.md)
 
@@ -26,19 +33,20 @@ workshop outline, code of conduct, technical questions, link to collaborative no
 #10:00-10:45
 
 Open collaboration.
+Mozilla
 open source project. Linux
 
 Introduction to github: get you page ready in the website.
 Presentation of the website, front and back
 
-step 0: login
+step 0: login, be part of the gitlab group, (fork the website from github?)
 step 1:  change the yml page, pull request it.
 step 2: add picture, modify yml
 step 3: add your page (create new file), write shortly what your experiment is about.
 sep 4:  access to the repo (admin rights)
 
 - blogdown created
-- goal: get all output of workshop there, it will be yours!
+- goal: get all output of workshop there, it will be yours afterwards!
 
 #10:45-11:00
 BREAK
@@ -52,7 +60,7 @@ Keynote presentation: 1_0_rawdata
 exercise with all participants (explain the data flow)
 exercice in group of 3 (explain the data flow)
 
-output: 2 sentences summary
+output: 2 sentences summary: experiment, raw data and its format
 
 #11:45-12:30
 Open Data II (spreadsheets)
@@ -62,7 +70,8 @@ exercise with all participants (create one spreadsheet)
 exercice in group of 3 (create one spreadsheet)
 
 output: one spreadsheet design
-# goodtables.io , openrefine
+## tools
+goodtables.io , openrefine (know any other?)
 
 #12:30-13:30
 LUNCH
@@ -74,7 +83,7 @@ Keynote presentation: 1_2_fairdata
 exercice in group of 3 (Folder organisation)
 exercice in group of 3 (file naming)
 
-Output: master file explaining naming and organisation
+Output: master file explaining naming and organisation of files
 
 #14:15-15:00
 Open Data IV (open data)
@@ -83,7 +92,7 @@ Keynote presentation: 1_3_open_fairdata
 exercise with all participants
 individual exercice (DMP)
 
-Output: a data management plan
+Output: a data management plan (dmptools.org)
 
 #15:00-15:15
 BREAK
@@ -107,9 +116,9 @@ Q and A
 # 09:15-10:00: Reproduciblity (Intro)
 
 - Good scientific practice: the official side with recap first day, (GSP.html) 
-**cards**
+**cards: 1 thing forbiden **
 
-output: what to do if you see misconduct?
+question 2: what to do if you see misconduct?
 
 - What is reproducibility: 
 **open question**
@@ -120,26 +129,32 @@ presentatation_d2.html
 
 Experimental design and p-hacking (keynote: 2_1_expdesign)
 
-
+data analysis registration: osf.io
 
 #10:45-11:00
 BREAK
 
+*If not done on first day, version control part comes here and everything is pushed back*
+
 #11:00-11:45 Reproducible research and data analysis II (comment)
 reproducibleanalysis_intro.html 15 min
 
-duty: get some data and produce a graph, with all documentation
-survey data, plot gender in x, age at start of PhD in y: 
-use excel or R: you have 10 min
+duty: get some data and (re-)produce a graph, with all documentation
+data: https://figshare.com/articles/self-learning/4201452
 
-check the documentation with other group members: 5-10 min.
+learning data present.  
+use excel or R: you have 10 min (boxplots allowed)
 
-Let's do it with R: 15 min
+check the documentation with other group members: 5 min.
+
+Let's do it with R: 7 min
+
+add your data to the website, in a folder with your name.
 
 
-#11:45-12:30 Reproducible research and data analysis II (your data)
+#11:45-12:30 Reproducible research and data analysis II (your data) 
 
-Let's look at your data and data analysis, and do some R (or python)
+Let's look at your data and data analysis, and do some R (or python) and documentation
 
 #12:30-13:30
 LUNCH
@@ -152,7 +167,7 @@ presentation (not ready yet)
 free to read versus free to reuse: licensing
 colors of open access
 
-add a license to your part of the website, change readme file accordingly.
+ouptut: add a license to your part of the website, change readme file accordingly.
 
 
 #14:15-15:00  Reproducible reports I (material and methods)
@@ -165,7 +180,11 @@ this info must be in metadata of each experiment !!!
 Key reagent table (elife)
 
 
-*If not done on first day, version control part comes here instead of exercices.*
+output: 
+ - krot for one experiment
+ - is there a protocol on protocols.io you can use ?
+ - get a PID for your protocol (?)
+ - add it in the metadata file for your data.
 
 
 
@@ -185,6 +204,7 @@ add a blogpost to the website to say it worked !
 
 #16:00-16:45 Day review/discussion
 
+Give a list of more information there:
 Open source and leadership (Public engagement / Open Communities)
 documents to add
 Collaboration with issues
@@ -197,4 +217,5 @@ GOSH)
 
 Look at each people summary, get feedback, make changes if needed.
 Give the website admin rights away, publish via netify ?
+
 

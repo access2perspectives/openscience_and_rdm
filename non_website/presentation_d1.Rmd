@@ -13,11 +13,23 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Outline
+
+- Website as an output of this workshop, each one of you working with one of your own experiment
+- End of day 1: adding a page about yourself and a data managment plan
+- End of day 2: adding a blog post as a report for one experiment (M&M,result)
+
+
+
 # Presentation 
 
-- your name
-- one sentence about your scientific project
+- tell us (1 min)
+    - your name, your PI 
+    - one sentence about your scientific project
+    - One sentence about yourself outside of the lab
+- one card with your name and the experiment you will work on
 - one card tell about why you choose to be a scientist
+
 
 
 

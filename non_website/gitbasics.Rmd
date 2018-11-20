@@ -20,6 +20,8 @@ knitr::opts_chunk$set(echo = FALSE)
 - …
 - thesis-final-final-corr_Prof-3-submitted-rev2 ?
 
+# WHAT SOLUTION ??
+
 ## Version control: manual solution
 
 - Increasing numbers: 01-99, or 001-999 or ISO date (end or beginning of file name)

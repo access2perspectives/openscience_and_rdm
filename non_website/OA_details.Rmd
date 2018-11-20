@@ -51,7 +51,7 @@ equivalents (see [https://choosealicense.com](https://choosealicense.com)):
 - Which one?
 - How to do that?
 
-# Open access
+# Open access (moved to the keynote presentation)
 
 ## video introduction
 

@@ -113,6 +113,128 @@ Q and A
 
 #DAY 2
 
+# 09:15-10:00: version control
+
+Keynote presentation: gitbasics.html
+
+look at issues (mozilla, zotero), comment
+
+exercise: clone the repository, modify your page, link in your page, git commit, git push, pull request and accept pull request.
+
+
+
+
+
+
+#10:00-10:45 Open Publishing (open access and licensing)
+
+**open questions** What do you know ?
+presentation (keynote)
+
+free to read versus free to reuse: licensing
+colors of open access
+
+ouptut: add a license to your part of the website, change readme file accordingly.
+
+
+#10:45-11:00
+BREAK
+
+
+
+#11:00-11:45 Reproduciblity (Intro)
+
+- Good scientific practice: the official side with recap first day, (GSP.html) 
+**cards: 1 thing forbiden **
+
+
+- What is reproducibility: 
+
+presentatation_d2.html
+
+
+
+#11:45-12:30 Reproducible reports I (material and methods)
+
+PID for everything !
+open materials: RRID, MGI numbers
+open methods and protocols.io (+ versioning)
+this info must be in metadata of each experiment !!!
+
+Key reagent table (elife)
+
+
+output: 
+ - krot for one experiment
+ - is there a protocol on protocols.io you can use ?
+ - get a PID for your protocol (?)
+ - add it in the metadata file for your data.
+
+#12:30-13:30
+LUNCH
+
+#13:30-14:15 Reproducible research and data analysis II (comment)
+reproducibleanalysis_intro.html 15 min
+
+duty: get some data and (re-)produce a graph, with all documentation
+data: https://figshare.com/articles/self-learning/4201452
+
+learning data present.  
+use excel or R: you have 10 min (boxplots allowed)
+
+check the documentation with other group members: 5 min.
+
+Let's do it with R: 7 min
+
+add your data to the website, in a folder with your name.
+
+
+#14:15-15:00   Reproducible reports II (Rmarkdown)
+
+look at Rmarkdown example
+
+add blogpost in Rmarkdown
+make an analysis, either with own data or the one above
+use markdown for commenting
+
+
+
+
+
+
+#15:00-15:15 BREAK 
+
+
+#15:15-16:00 Reproducible reports III (Rmarkdown)
+
+add material and method to the report.
+get a presentation version
+
+if time left: folder organisation + feedback
+
+
+
+#16:00-16:45 Day review/discussion
+
+Give a list of more information there:
+Open source and leadership (Public engagement / Open Communities)
+documents to add
+Collaboration with issues
+open leadership (mozilla)
+
+citizen science
+open science example
+Mozilla community
+GOSH)
+
+Look at each people summary, get feedback, make changes if needed.
+Give the website admin rights away, publish via netify ?
+
+
+\newpage
+
+#DAY 2 (old version)
+
 # 09:15-10:00: Reproduciblity (Intro)
 
 - Good scientific practice: the official side with recap first day, (GSP.html) 
@@ -218,4 +340,9 @@ GOSH)
 Look at each people summary, get feedback, make changes if needed.
 Give the website admin rights away, publish via netify ?
 
+reproducible research workflow:
+- Easier to write reports/papers
+- Easier reuse of material for future projects
+- Helps referees to review
+- Builds your reputation
 

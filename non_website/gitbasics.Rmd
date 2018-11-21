@@ -64,3 +64,37 @@ knitr::opts_chunk$set(echo = FALSE)
 - Rstudio (github desktop,…), for creation, commits and simple stuff
 - Git specific software (Sourcetree, tortoise,…) for more complex processes (merge, complex history,…)
 - Problems -> google error message -> stack overflow solution (mostly via git commands, shell button on Rstudio)
+
+# gitlab and github
+
+# Using issues
+
+- create issues
+- add labels
+- add assignee
+- start the discussion !
+
+# Why using gitlab ?
+
+## The Obvious
+
+- Backup of your files
+- Possible to work from different machines
+- Version history
+- Follow who did what
+- Communication via issues
+
+## Careful:
+
+- Pull when starting to work
+- Push when the work is done
+- Use branches to deal with merging problems later (especially if working in groups)
+- try to pull request on master often.
+
+## gitlab versus GitHub
+
+- GitHub belongs to microsoft
+- No export of issues and wiki on GitHub
+- larger community on GitHub
+- zenodo integration only on GitHub
+- GitHub slightly easier at start

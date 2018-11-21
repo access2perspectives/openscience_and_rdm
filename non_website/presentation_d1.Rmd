@@ -48,6 +48,8 @@ Open Science is the practice of science in such a way that others can collaborat
 
 <center><img src="images/openscience_because.png" width="65%" /></center>
 
+# Why open data
+
 ## Open data is coming !
 
 >- Funders ask for it

@@ -5,7 +5,7 @@ With the digitalisation of the scientific workflow, researchers are faced with n
 at the 
 Ruhr-Universität Bochum.  While research data management skills was at the center of the course, an overview of open access, analysis and experiments reproducibility and online presence was also given. Git, Gitlab and Rstudio were the tools introduced to help them use a more open and efficient workflow.
 
-
+ 
 The projects of the nine neurosciences PhD students who participated were ranging from computer simulation to protein quantification, via human surveys. The students enjoyed the workshop, particularly the nice atmosphere, the good balance between lectures and practical exercises and the "nice summary of open science resources and opportunities" (fig.1).  
  As expected from an first run, there is room for improvement, especially in the technical exercise part, where we spend too much time resolving issues. Some students found it a bit too fast sometimes and lost track of the workshop structure.
 In general, the focus on research data management was appreciated by early PhD students, while late PhDs had the impression it was too late for them.

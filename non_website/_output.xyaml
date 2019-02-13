@@ -1,0 +1,5 @@
+ioslides_presentation:
+    logo: images/logo.png
+    css: styles.css
+    incremental: true
+    widescreen: true

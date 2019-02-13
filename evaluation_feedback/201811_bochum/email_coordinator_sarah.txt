@@ -1,0 +1,42 @@
+content:
+email 20181203
+answer 20181203
+
+--------------------------------------------------
+email 20181203:
+Dear Julien, 
+
+I have evaluated your workshop and I would like to tell you first that the participants were very pleased how you responded to individual questions and needs and they all appreciated the nice atmosphere. I have attached the whole evaluation for your information. 
+
+As it was our first workshop on open science and we think this is a very important topic, I would like to share some thoughts with you on possible follow up events. 
+
+In terms of the professional level of the workshop, half of the participants thought it adequate to their needs, half of them thought it was too high for them (we had expected that, so there is no one to blame). Participants also told me that those doctoral students who just started their Ph.D. projects could make more use of the workshop as they could apply the new techniques to their own data, other than those students who have already gathered their data (which is fine as they have learned something important which they should be able to use for future projects). 
+
+Therefore, for the future it might be a good idea to offer the workshop on two levels: In a basic level workshop, participants would probably benefit from a general overview and step-by-step instructions. In an advanced workshop one could look more deeply into data analysis, meta analysis, application of open science... (to name some points from the evaluation). Furthermore, it would be interesting to know whether Matlab works with principles of open science, as many of our researchers use Matlab. 
+
+These are just some first ideas. I would be very interested to learn what you think about it and whether you would be interested in a further cooperation with us. 
+
+Besides, I was asked by a student who could not participate in the workshop in November whether there are any slides or documents she might get. ? 
+
+Best, 
+
+Sarah 
+
+——————————————————————————————————————————
+answer 20181203
+Dear Sarah, 
+
+I am pleased to hear the atmosphere was good, and that students could recognize that I was prepared and I would be very happy to collaborate with you further on the development of better workshops next year. 
+
+While it is a challenge to satisfy both early and late PhD students, I think there are many advantages to get such a broad range of experience in the room. We could probably emphasize more that the end of one project is the start of a new one, and also give some practical approach still possible when writing the manuscripts (preprints, open data, material and method reporting,...) to give late PhDs a nicer take home message, though. The inexperience of the young researchers might also be used more intentionally. 
+
+Reading the workshop reviews, I feel there was a discrepancy between what they expected (open science) and what I thought I should deliver (Research data management with an open science perspective). It might be interesting to make one workshop on RDM and open data only (and get more time to do some practice with data from the participants), and one of an overview of open science  topics (Probably following 10 module structure of the open science MOOC). And I would be glad to discuss this further with you and Johanna. 
+
+The whole workshop material is available on the gitlab instance (https://git.noc.ruhr-uni-bochum.de/sfb874-irtg/openscience_and_rdm/tree/master/non_website), note that some of the presentation are not licensed CC-BY and are therefore copyrighted (free to read, not to reuse). 
+
+For matlab, I do not have direct experience, but: it is not an open tool so on the long term it would be better to use R or python, which are better embodied in the open science community. If this is not possible, one should try to see if one's matlab code runs on octave or scilab (open source tools that can read matlab code) as a start. As you can read online, "Posting Matlab code is far better than not posting any code. But be aware that things are changing, and sooner than later, you’ll need to adapt." 
+
+
+Best regards, 
+
+Julien Colomb 
